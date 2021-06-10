@@ -11,6 +11,17 @@
   <modules>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>jobs/process/Sales/Analytics/retailsales_0.1</module>
+    <module>jobs/process/Sales/LoadTables/customerstablesetup_0.1</module>
+    <module>jobs/process/Sales/Services/service_add_0.1</module>
+    <module>jobs/joblets/j00_standard_error_handler_0.1</module>
+    <module>jobs/process/Sales/Initialize/master_init_0.1</module>
+    <module>jobs/process/Sales/Services/service_get_0.1</module>
+    <module>jobs/process/Sales/Initialize/createtables_0.1</module>
+    <module>jobs/process/Sales/LoadTables/productstablesetup_0.1</module>
+    <module>jobs/process/Sales/LoadTables/master_loadtables_0.1</module>
+    <module>jobs/process/Sales/LoadTables/shoptablesetup_0.1</module>
+    <module>jobs/process/Sales/Initialize/preparesalesfiles_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
